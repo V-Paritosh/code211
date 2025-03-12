@@ -4,7 +4,6 @@
   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
   http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-  <!-- URLs for your website -->
   <url>
     <loc>https://v-paritosh.github.io/code211/</loc>
     <priority>1.00</priority>
@@ -14,12 +13,6 @@
   <url>
     <loc>https://v-paritosh.github.io/code211/workshop.html</loc>
     <priority>0.80</priority>
-    <changefreq>monthly</changefreq>
-    <lastmod>2025-03-12</lastmod>
-  </url>
-  <url>
-    <loc>https://v-paritosh.github.io/code211/index.html</loc>
-    <priority>0.64</priority>
     <changefreq>monthly</changefreq>
     <lastmod>2025-03-12</lastmod>
   </url>
